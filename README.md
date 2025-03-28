@@ -50,9 +50,9 @@ Each screenshot demonstrates one step in the process:
 - `USHH_Income_EDA_Updated.sql` – SQL script for EDA
 - Screenshots demonstrating key stages
 - `README.md` – Project overview and documentation
+- `USHouseholdIncome_Statistics.csv` - Household Income statistics data
+- `USHouseholdIncome.csv` - Household Income data
 
 ---
 
-> **Author**: Latif Yari  
-> **Date**: March 2025  
-> **Status**: ✅ Completed & Documented
+> **Author**: Latifa Yari  
