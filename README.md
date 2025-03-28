@@ -1,4 +1,3 @@
-
 # US Household Income Data Cleaning & EDA (MySQL)
 
 ## Project Overview
